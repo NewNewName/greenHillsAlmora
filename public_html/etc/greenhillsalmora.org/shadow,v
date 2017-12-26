@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	greenhillsalmora:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2016.05.27.05.10.50;	author greenhillsalmora;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.05.27.05.10.50;	author greenhillsalmora;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@info:$6$oYbFcha2xxinf7jK$FvqsJABlN0WDDC1ur0u0RMLOPrKNtPck.z9X/boSniPluQbrkZKIDBb3aalSSU5/OOUl75OobAVFRefALoKtk1:16948::::::
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@
