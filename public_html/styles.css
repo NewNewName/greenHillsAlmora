@@ -399,7 +399,7 @@ h3{
     background-size:100% 100%;
     margin:auto 
 }
-.asha,.vasudha{
+.asha,.vasudha,.yusuf{
     border-radius:100px 
 }
 .asha{
@@ -410,6 +410,18 @@ h3{
     -webkit-border-radius:1000px;
     -moz-border-radius:100px;
     background:url("images/asha.jpg") no-repeat;
+    margin:auto;
+    background-size:100% 100% 
+}
+
+.yusuf{
+    display:inline;
+    float:left;
+    width:150px;
+    height:150px;
+    -webkit-border-radius:1000px;
+    -moz-border-radius:100px;
+    background:url("images/signup_male.png") no-repeat;
     margin:auto;
     background-size:100% 100% 
 }
@@ -764,3 +776,5 @@ footer ul li img{
 }
 @import url("http://fonts.googleapis.com/css?family=Oxygen:300,400,700");
 @import url("http://fonts.googleapis.com/css?family=Fredericka+the+Great");
+
+
